@@ -4,7 +4,7 @@
 Desarrollo de modelos predictivos para intrusiones a computadoras utilizando datos de telemtría de Windows.
 
 ### Artículo ###
-La investigación previa, el proceso de desarrollo, los modelos, los resultados y su evaluación se encuentran dentro del artículo elaborado. Para visualizarlo hacer clic [aquí](articulo.pdf)
+La investigación previa, el proceso de desarrollo, los modelos, los resultados y su evaluación se encuentran dentro del artículo elaborado. Para visualizarlo hacer clic [aquí](article.pdf)
 
 ### Notebooks ###
 * Para visualizar el notebook con el código de la limpieza y exploración inicial hacer clic [aquí](cleaning.ipynb)
