@@ -13,7 +13,7 @@ La investigación previa, el proceso de desarrollo, los modelos, los resultados 
 ### Modelos ###
 Se utilizaron los siguientes modelos y algoritmos:
 * XG Boost
-* Otro
+* Random Forest
 
 ### Librerías ###
 * Numpy
